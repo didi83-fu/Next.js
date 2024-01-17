@@ -1,0 +1,844 @@
+NCVs:
+    - AD_PLATFORMS_ODML
+       downloadNCV: 3
+    - AMP_ODML_ASL_APP_EMBEDDING
+       downloadNCV: 1
+    - AMP_ODML_ASL_ARCADE_RANKING
+       downloadNCV: 1
+    - AMP_ODML_ASL_ARCADE_RETENTION
+       downloadNCV: 1
+    - AMP_ODML_ASL_EXPERIMENTAL
+       downloadNCV: 1
+    - AMP_ODML_CSL_APPSTORE
+       downloadNCV: 1
+    - AMP_ODML_CSL_APPSTORE2
+       downloadNCV: 1
+    - AMP_RECO_ON_DEVICE
+       downloadNCV: 3
+    - BIFROST_DEV_1
+       downloadNCV: 1
+    - BIFROST_DEV_2
+       downloadNCV: 1
+    - BIFROST_PROD_1
+       downloadNCV: 1
+    - BIFROST_PROD_2
+       downloadNCV: 1
+    - BIOME_CURARE
+       downloadNCV: 1
+    - COREML_SYSTEMS_FACETIME_CONTACT_PREDICTION
+       downloadNCV: 1
+    - COREML_SYSTEMS_PEOPLE_SUGGESTER
+       downloadNCV: 1
+    - COREOS_CHARGE_PREDICTION
+       downloadNCV: 1
+    - COREOS_DAS
+       downloadNCV: 2
+    - COREOS_FPFS_CONFIG
+       downloadNCV: 1
+    - COREOS_ICD
+       downloadNCV: 4
+    - COREOS_POWERD_ASSERTIONS
+       downloadNCV: 1
+    - COREOS_PREDICTION_INACTIVITY
+       downloadNCV: 1
+    - CORE_MEDIA_HLS_STORE_BAG
+       downloadNCV: 5
+    - CURARE_LIGHTHOUSE_JOIN
+       downloadNCV: 1
+    - CURARE_LIGHTHOUSE_SHARESHEET_PFL_PLUGIN
+       downloadNCV: 1
+    - CURARE_LIGHTHOUSE_SHARESHEET_PLUGIN
+       downloadNCV: 1
+    - FED_STATS_BIOME_APPLECARD
+       downloadNCV: 1
+    - FED_STATS_BIOME_BLUETOOTH
+       downloadNCV: 1
+    - FED_STATS_BIOME_FLEXIBLE_HISTOGRAMS
+       downloadNCV: 1
+    - FED_STATS_BIOME_INTERSTELLAR
+       downloadNCV: 1
+    - FED_STATS_BIOME_KEYBOARD
+       downloadNCV: 1
+    - FED_STATS_BIOME_MEAD
+       downloadNCV: 1
+    - FED_STATS_BIOME_MEDIATECH
+       downloadNCV: 1
+    - FED_STATS_BIOME_STORYTELLING
+       downloadNCV: 2
+    - FED_STATS_BIOME_WIRELESS
+       downloadNCV: 1
+    - FIN_HEALTH_SEARCH
+       downloadNCV: 1
+    - FREEZER_POLICIES
+       downloadNCV: 1
+    - HEALTH_FEATURE_AVAILABILITY
+       downloadNCV: 1
+    - ICLOUD_SUBSCRIPTIOND_PFL
+       downloadNCV: 1
+    - INTELLIGENCE_PLATFORM_LIGHTHOUSE
+       downloadNCV: 1
+    - IO_PERFORMANCE_ASP
+       downloadNCV: 1
+    - KEYBOARD_QUICK_TYPE
+       downloadNCV: 1
+    - LANGUAGE_INTELLIGENCE_LANGUAGE_MODELS
+       downloadNCV: 1
+    - LIGHTHOUSE_BITACORA_UPLOADER_PLUGIN
+       downloadNCV: 1
+    - LIGHTHOUSE_ICLOUD_SHADOW_EVALUATION
+       downloadNCV: 1
+    - LIGHTHOUSE_PHOTOS_PHOTO_ANALYSIS
+       downloadNCV: 1
+    - MLPT_DICTATION_LIGHTHOUSE
+       downloadNCV: 1
+    - MUSIC_PLAYBACK_PERFORMANCE_STEREO_HLS
+       downloadNCV: 1
+    - MYRIAD_BOOSTS
+       downloadNCV: 1
+    - NETWORK_SERVICE_PROXY_CONFIG_UPDATE
+       downloadNCV: 2
+    - NETWORK_SETTINGS
+       downloadNCV: 1
+    - OS_ANALYTICS_STABILITY_MONITOR
+       downloadNCV: 1
+    - PERSONALIZATION_PORTRAIT_CONNECTIONS
+       downloadNCV: 5
+    - PERSONALIZATION_PORTRAIT_CONTACTS
+       downloadNCV: 5
+    - PERSONALIZATION_PORTRAIT_EVENTS
+       downloadNCV: 4
+    - PERSONALIZATION_PORTRAIT_GLOBAL
+       downloadNCV: 13
+    - PERSONALIZATION_PORTRAIT_LOCATIONS
+       downloadNCV: 14
+    - PERSONALIZATION_PORTRAIT_NAMED_ENTITIES
+       downloadNCV: 18
+    - PERSONALIZATION_PORTRAIT_QUICKTYPE
+       downloadNCV: 5
+    - PERSONALIZATION_PORTRAIT_SOCIAL_HIGHLIGHT
+       downloadNCV: 10
+    - PERSONALIZATION_PORTRAIT_TOPICS
+       downloadNCV: 21
+    - PERSONALIZATION_PORTRAIT_UNIVERSAL_SEARCH
+       downloadNCV: 3
+    - PFL_CARRY
+       downloadNCV: 1
+    - PHOTOS_CHALLENGE_QUESTIONS
+       downloadNCV: 2
+    - PHOTOS_GENERAL
+       downloadNCV: 1
+    - PHOTOS_HOLIDAY
+       downloadNCV: 1
+    - PHOTOS_MEANINGS
+       downloadNCV: 2
+    - PHOTOS_MUSIC
+       downloadNCV: 5
+    - PHOTOS_PFL
+       downloadNCV: 1
+    - PROACTIVE_MAIL_INTELLIGENCE_SALIENCY
+       downloadNCV: 2
+    - PRODUCTIVITY_INTELLIGENCE_REMINDERS
+       downloadNCV: 1
+    - PRODUCTIVITY_INTELLIGENCE_STRUCTURED_EVENTS
+       downloadNCV: 1
+    - QUICK_TYPE_WB_EN
+       downloadNCV: 1
+    - QUICK_TYPE_WB_ES
+       downloadNCV: 1
+    - QUICK_TYPE_WB_FR
+       downloadNCV: 1
+    - QUICK_TYPE_WB_JP
+       downloadNCV: 1
+    - QUICK_TYPE_WB_ZH_HANS
+       downloadNCV: 1
+    - QUICK_TYPE_ZKW_EN
+       downloadNCV: 1
+    - QUICK_TYPE_ZKW_ES
+       downloadNCV: 1
+    - QUICK_TYPE_ZKW_FR
+       downloadNCV: 1
+    - QUICK_TYPE_ZKW_JP
+       downloadNCV: 1
+    - QUICK_TYPE_ZKW_ZH_HANS
+       downloadNCV: 1
+    - SAFARI_SEARCH_RANKING
+       downloadNCV: 1
+    - SEARCH_ADS_COUNTERFACTUAL
+       downloadNCV: 3
+    - SEARCH_ADS_TRAINING
+       downloadNCV: 1
+    - SIRI_AUDIO_APP_SELECTION
+       downloadNCV: 1
+    - SIRI_AUDIO_TTS_BEHAVIOR
+       downloadNCV: 1
+    - SIRI_CLIENT_SPEECH_ADBLOCKER_ASSETS
+       downloadNCV: 3
+    - SIRI_DIALOG_ASSETS
+       downloadNCV: 1300
+    - SIRI_DICTATION_ASSETS
+       downloadNCV: 1050
+       upgradeNCVs: []
+    - SIRI_EXPERIENCE_CAM
+       downloadNCV: 1300
+       upgradeNCVs: [400]
+    - SIRI_FIND_MY_CONFIGURATION_FILES
+       downloadNCV: 1001
+    - SIRI_HOME_AUTOMATION_ASYNC
+       downloadNCV: 1
+    - SIRI_INFERRED_HELPFULNESS
+       downloadNCV: 2
+    - SIRI_INFORMATION_POMMES
+       downloadNCV: 1
+    - SIRI_MEMORY_SYNC_CONFIG
+       downloadNCV: 1
+    - SIRI_MESSAGES_ANNOUNCE_HINT_EDUCATION
+       downloadNCV: 2
+    - SIRI_MESSAGES_APP_SELECTION
+       downloadNCV: 4
+    - SIRI_NLX_LIGHTHOUSE_ANALYTICS_PLUGIN
+       downloadNCV: 1
+    - SIRI_PRIVATE_LEARNING_SUGGESTIONS_PLATFORM
+       downloadNCV: 2
+    - SIRI_PROACTIVE_QUICK_TYPE_WORD_BOUNDARY_MODEL
+       downloadNCV: 1
+    - SIRI_PROACTIVE_QUICK_TYPE_ZKW_MODEL
+       downloadNCV: 1
+    - SIRI_PROACTIVE_SUGGESTIONS_RESPONSES_INFERENCE_MODEL
+       downloadNCV: 1
+    - SIRI_REFERENCE_RESOLUTION_LIGHTHOUSE_PLUGIN
+       downloadNCV: 1
+    - SIRI_REFERENCE_RESOLUTION_LIGHTHOUSE_PLUGIN_FOR_SHADOW_LOGGING
+       downloadNCV: 1
+    - SIRI_SPEAKER_RECOGNITION_ASSETS
+       downloadNCV: 1
+    - SIRI_TEXT_TO_SPEECH
+       downloadNCV: 1200
+       upgradeNCVs: [1002, 1100]
+    - SIRI_UI_RESPONSES_SETTINGS
+       downloadNCV: 1
+    - SIRI_UNDERSTANDING_ASR_ASSISTANT
+       downloadNCV: 1200
+       upgradeNCVs: [1001, 1100]
+    - SIRI_UNDERSTANDING_ASR_HAMMER
+       downloadNCV: 1100
+       upgradeNCVs: [1001]
+    - SIRI_UNDERSTANDING_ATTENTION_ASSETS
+       downloadNCV: 1200
+       upgradeNCVs: []
+    - SIRI_UNDERSTANDING_MDS
+       downloadNCV: 1000
+    - SIRI_UNDERSTANDING_MORPHUN
+       downloadNCV: 1002
+       upgradeNCVs: []
+    - SIRI_UNDERSTANDING_NL
+       downloadNCV: 1300
+       upgradeNCVs: [1200, 1004, 1100]
+    - SIRI_UNDERSTANDING_NL_OVERRIDES
+       downloadNCV: 1200
+       upgradeNCVs: [1002]
+    - SIRI_UNDERSTANDING_RECTIFI
+       downloadNCV: 2
+    - SIRI_UNDERSTANDING_TMDC
+       downloadNCV: 3
+    - SIRI_VALUE_INFERENCE_APP_RESOLUTION
+       downloadNCV: 1
+    - SIRI_VALUE_INFERENCE_CONTACT_RESOLUTION
+       downloadNCV: 1
+    - SIRI_VALUE_INFERENCE_PHONECALL_SMART_APP_SELECTION
+       downloadNCV: 1
+    - SIRI_VIDEO_APP_SELECTION
+       downloadNCV: 1
+    - SIRI_VIDEO_SIGNAL_COLLECTION
+       downloadNCV: 1
+    - SIRI_X_BEHAVIOR_CONFIG
+       downloadNCV: 3
+    - SMART_REPLY_EN
+       downloadNCV: 1
+    - SMART_REPLY_ES
+       downloadNCV: 1
+    - SMART_REPLY_FR
+       downloadNCV: 1
+    - SMART_REPLY_HI
+       downloadNCV: 1
+    - SMART_REPLY_HI_LATN
+       downloadNCV: 1
+    - SMART_REPLY_JP
+       downloadNCV: 1
+    - SMART_REPLY_ZH_HANS
+       downloadNCV: 1
+    - SMS_FILTER_BRPT_CLASSIFICATION
+       downloadNCV: 3
+    - SMS_FILTER_INEN_CLASSIFICATION
+       downloadNCV: 4
+    - SPOTLIGHT_BLENDING_MODEL
+       downloadNCV: 1
+    - SPOTLIGHT_RANKING_RULES
+       downloadNCV: 2
+    - SPOTLIGHT_UI
+       downloadNCV: 1
+    - SPRINGBOARD_HOME
+       downloadNCV: 1
+    - SYSTEM_SPACE_INTELLIGENCE_FOCUS_MODES
+       downloadNCV: 1
+    - SYSTEM_SPACE_INTELLIGENCE_SPOTLIGHT_SUGGESTIONS
+       downloadNCV: 6
+    - TIPS_NOTIFICATIONS
+       downloadNCV: 1
+    - TRIAL_SYSTEM
+       downloadNCV: 2
+    - VISUAL_INTELLIGENCE_NATURE
+       downloadNCV: 2
+    - VISUAL_INTELLIGENCE_PETS
+       downloadNCV: 1
+    - VISUAL_INTELLIGENCE_POC
+       downloadNCV: 2
+    - WALLET_APP_BROADWAY_APPLY
+       downloadNCV: 1
+    - WALLET_APP_BROADWAY_OFFER
+       downloadNCV: 1
+    - WALLET_APP_BROADWAY_WELCOME
+       downloadNCV: 1
+    - WALLET_APP_ECOM_PAYMENT_SHEET
+       downloadNCV: 1
+    - WIRELESS_DATA_ANALYTICS_CELLULAR_PRODUCT_EXPERIMENTATION
+       downloadNCV: 1
+    - WIRELESS_DATA_ANALYTICS_SIS_FR2HARVESTING
+       downloadNCV: 1
+rollouts:
+    - rollout: 5f72dc58705eff005a46b3a9.250000014
+      status: active
+      activeFactorPackSetid: 1b2a5a75-c9d5-4b49-b13b-6e113650c9f2
+      namespaces:
+       - namespace: SIRI_VIDEO_APP_SELECTION
+         NCVs: [1]
+         factorPackId: 63d867d28283bf1629655506
+         factors:
+          - AppSelection.model
+            assetReference: 6001095df045c4000c985fb1
+            path: /private/var/mobile/Library/Trial/Treatments/SIRI_VIDEO_APP_SELECTION/factorPacks/63d867d28283bf1629655506/assets/AppSelection.model
+            metadata:
+          - AppSelectionV2.model
+            assetReference: 63c9cf3430a095237b822e75
+            path: /private/var/mobile/Library/Trial/Treatments/SIRI_VIDEO_APP_SELECTION/factorPacks/63d867d28283bf1629655506/assets/AppSelectionV2.model
+            metadata:
+    - rollout: 5fb4245a1bbfe8005e33a1e1.250000011
+      status: active
+      activeFactorPackSetid: empty-fp-set
+      namespaces:
+       - namespace: SMART_REPLY_EN
+         NCVs: [1]
+         factorPackId: (null)
+         factors:
+          - modelAssets
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/ProactiveExperimentsInternals.framework/assets_151/modelAssets
+            metadata:
+    - rollout: 5ffde50ce2aacd000d47a95f.250000346
+      status: active
+      activeFactorPackSetid: empty-fp-set
+      namespaces:
+       - namespace: SIRI_CLIENT_SPEECH_ADBLOCKER_ASSETS
+         NCVs: [3]
+         factorPackId: (null)
+         factors:
+          - AssetData
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSpeech.framework/assets_404/placeholder.txt
+            metadata:
+    - rollout: 601074e4af9bef000c169ea8.250003900
+      status: active
+      activeFactorPackSetid: b0c62833-3d80-4f9f-a06b-2580f75ec52f
+      namespaces:
+       - namespace: BIFROST_DEV_1
+         NCVs: [1]
+         factorPackId: 6595968f5595a45664475f39
+         factors:
+          - tle
+            assetReference: 
+            path: /System/Library/Frameworks/CoreTelephony.framework/Support/assets_800/tle
+            metadata:
+    - rollout: 6010753cf9bfc4000c247bdd.250000324
+      status: active
+      activeFactorPackSetid: 0b929463-4a42-486f-ad5d-8fdeec38babd
+      namespaces:
+       - namespace: BIFROST_DEV_2
+         NCVs: [1]
+         factorPackId: 64f1404007f7446da0063a06
+         factors:
+    - rollout: 60186475825c62000ccf5450.250000064
+      status: active
+      activeFactorPackSetid: 77d3dd61-3772-4b01-b7c7-1f4bfda1b823
+      namespaces:
+       - namespace: SIRI_VALUE_INFERENCE_CONTACT_RESOLUTION
+         NCVs: [1]
+         factorPackId: 64cd1e9bd721bb6c1aea9b60
+         factors:
+          - ContactRanker
+            assetReference: 64cc3bb77fe48e42987a1fe6
+            path: /private/var/mobile/Library/Trial/Treatments/SIRI_VALUE_INFERENCE_CONTACT_RESOLUTION/factorPacks/64cd1e9bd721bb6c1aea9b60/assets/ContactRanker
+            metadata:
+    - rollout: 60356660bbe37970735c5624.250000016
+      status: active
+      activeFactorPackSetid: empty-fp-set
+      namespaces:
+       - namespace: BIOME_CURARE
+         NCVs: [1]
+         factorPackId: (null)
+         factors:
+          - recipe_file
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/BiomeStreams.framework/PlugIns/BiomeLighthousePlugin.appex/assets_812/recipefinal.json
+            metadata:
+    - rollout: 6081ed9716bb6d61d81d5014.250002936
+      status: active
+      activeFactorPackSetid: 40967669-fb99-41da-8443-56ea6aa73606
+      namespaces:
+       - namespace: BIFROST_PROD_1
+         NCVs: [1]
+         factorPackId: 6599595f1fdf231ed378f2b3
+         factors:
+    - rollout: 6081eda9c724863038027c4f.250001068
+      status: active
+      activeFactorPackSetid: fadabb80-8d36-4a83-97a3-d4a73f2f401a
+      namespaces:
+       - namespace: BIFROST_PROD_2
+         NCVs: [1]
+         factorPackId: 657a5a5d96145d46e2bb5a70
+         factors:
+    - rollout: 60da5e84ab0ca017dace9abf.250000007
+      status: active
+      activeFactorPackSetid: empty-fp-set
+      namespaces:
+       - namespace: SIRI_HOME_AUTOMATION_ASYNC
+         NCVs: [1]
+         factorPackId: (null)
+         factors:
+    - rollout: 60f8ddccefea4203d95cbeef.250000018
+      status: active
+      activeFactorPackSetid: empty-fp-set
+      namespaces:
+       - namespace: NETWORK_SERVICE_PROXY_CONFIG_UPDATE
+         NCVs: [2]
+         factorPackId: (null)
+         factors:
+    - rollout: 6101c13693ebac18231ac9a1.250000794
+      status: active
+      activeFactorPackSetid: empty-fp-set
+      namespaces:
+       - namespace: SIRI_UNDERSTANDING_NL_OVERRIDES
+         NCVs: [1000, 1001, 1002, 1200]
+         factorPackId: (null)
+         factors:
+    - rollout: 610d52e1fc54bc3389840408.250000718
+      status: active
+      activeFactorPackSetid: c57b74e4-ef5f-4f06-8285-d92dc4821879
+      namespaces:
+       - namespace: SIRI_EXPERIENCE_CAM
+         NCVs: [1000, 1001, 1201, 1300]
+         factorPackId: (null)
+         factors:
+          - com.apple.siri.caar.ranker
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/SiriCam.framework/assets_750/com.apple.siri.caar.ranker
+            metadata:
+              version: 0.0.1
+              shadowLog: false
+          - com.apple.siri.cam.auto_confirm.auto_send
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/SiriCam.framework/assets_750/com.apple.siri.cam.auto_confirm.auto_send
+            metadata:
+              version: 0.0.2
+              shadowLog: false
+          - com.apple.siri.cam.auto_confirm.auto_send_private
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/SiriCam.framework/assets_750/com.apple.siri.cam.auto_confirm.auto_send_private
+            metadata:
+              version: 0.0.1
+              shadowLog: true
+          - com.apple.siri.cam.uncertainty_prompt
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/SiriCam.framework/assets_750/com.apple.siri.cam.uncertainty_prompt
+            metadata:
+              version: 0.0.1
+              shadowLog: false
+       - namespace: SIRI_UNDERSTANDING_ASR_ASSISTANT
+         NCVs: [1000, 1001, 1100, 1200]
+         factorPackId: 6489075a6da52c5116eebf07
+         factors:
+          - com.apple.siri.asr.assistant.en_US
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrAssistant-com.apple.siri.asr.assistant.en_US-en_US-generic-3100.1200.132.11.2907,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrAssistant/purpose_auto/73683cba95740268c0610b2efec2228fbe8497f7.asset/AssetData
+            metadata:
+              trialIsEncrypted: true
+              oures_version: OURES-v0.4.0
+              __trialAppleFSCompressionMode: LZBITMAP
+              SupportsEmojiRecognition: 1
+              SupportsOnDeviceSearch: 1
+              SupportsAutoPunctuation: 1
+              version: 3100.1200.132
+              oep_version: oepv4.2
+              SupportsContinuousListening: 1
+              PreferOverServer: 1
+          - com.apple.siri.asr.geolm.regionMapping.de_DE
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrAssistant-com.apple.siri.asr.geolm.regionMapping.de_DE-de_DE-generic-3100.1200.110.11.3026,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrAssistant/purpose_auto/543a32323996b3995ab9ecf3ed3d9c5860c2c2f3.asset/AssetData
+            metadata:
+              version: 3100.1200.110
+              trialIsEncrypted: true
+          - com.apple.siri.asr.geolm.regionMapping.en_AU
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrAssistant-com.apple.siri.asr.geolm.regionMapping.en_AU-en_AU-generic-3100.1200.122.11.2907,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrAssistant/purpose_auto/7ef16dd07afa13b13462dea5966d2e039efb8782.asset/AssetData
+            metadata:
+              version: 3100.1200.122
+              trialIsEncrypted: true
+          - com.apple.siri.asr.geolm.regionMapping.en_CA
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrAssistant-com.apple.siri.asr.geolm.regionMapping.en_CA-en_CA-generic-3100.1000.110.11.554,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrAssistant/purpose_auto/504617f420e8a5ebbae95b21b7b00f0ab4faca4e.asset/AssetData
+            metadata:
+              version: 3100.1000.110
+              trialIsEncrypted: true
+          - com.apple.siri.asr.geolm.regionMapping.en_GB
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrAssistant-com.apple.siri.asr.geolm.regionMapping.en_GB-en_GB-generic-3100.1200.115.11.2907,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrAssistant/purpose_auto/f45f3841753657ae97ecaeab0101dcccafd11fbf.asset/AssetData
+            metadata:
+              version: 3100.1200.115
+              trialIsEncrypted: true
+          - com.apple.siri.asr.geolm.regionMapping.en_IN
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrAssistant-com.apple.siri.asr.geolm.regionMapping.en_IN-en_IN-generic-3100.1200.122.11.2922,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrAssistant/purpose_auto/b024cb2ed5b8787c5265fb4fb440199edc55a051.asset/AssetData
+            metadata:
+              version: 3100.1200.122
+              trialIsEncrypted: true
+          - com.apple.siri.asr.geolm.regionMapping.en_US
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrAssistant-com.apple.siri.asr.geolm.regionMapping.en_US-en_US-generic-3100.1200.132.11.2922,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrAssistant/purpose_auto/d35736f207a456fea367288ac436b3b0b5ded2e2.asset/AssetData
+            metadata:
+              version: 3100.1200.132
+              trialIsEncrypted: true
+          - com.apple.siri.asr.geolm.regionMapping.es_ES
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrAssistant-com.apple.siri.asr.geolm.regionMapping.es_ES-es_ES-generic-3100.1200.108.11.2922,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrAssistant/purpose_auto/47de6ef6a802effaa0fcacbf5a3f1f5761de9192.asset/AssetData
+            metadata:
+              version: 3100.1200.108
+              trialIsEncrypted: true
+          - com.apple.siri.asr.geolm.regionMapping.es_MX
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrAssistant-com.apple.siri.asr.geolm.regionMapping.es_MX-es_MX-generic-3100.1001.108.11.634,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrAssistant/purpose_auto/8170ab1e2b418cdd133f3ecda5188451ee43955f.asset/AssetData
+            metadata:
+              version: 3100.1001.108
+              trialIsEncrypted: true
+          - com.apple.siri.asr.geolm.regionMapping.es_US
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrAssistant-com.apple.siri.asr.geolm.regionMapping.es_US-es_US-generic-3100.1200.111.11.2907,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrAssistant/purpose_auto/4d138b9118f5fde115a03e28626da2a4de6bb107.asset/AssetData
+            metadata:
+              version: 3100.1200.111
+              trialIsEncrypted: true
+          - com.apple.siri.asr.geolm.regionMapping.fr_FR
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrAssistant-com.apple.siri.asr.geolm.regionMapping.fr_FR-fr_FR-generic-3100.1200.113.11.2922,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrAssistant/purpose_auto/c701094b4c8bf51abc5dc9aa11414eb291225c5f.asset/AssetData
+            metadata:
+              version: 3100.1200.113
+              trialIsEncrypted: true
+          - com.apple.siri.asr.geolm.regionMapping.ja_JP
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrAssistant-com.apple.siri.asr.geolm.regionMapping.ja_JP-ja_JP-generic-3100.1200.121.11.2907,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrAssistant/purpose_auto/19e093ab4033b725340778ac26f6ba8315efd649.asset/AssetData
+            metadata:
+              version: 3100.1200.121
+              trialIsEncrypted: true
+          - com.apple.siri.asr.geolm.regionMapping.zh_CN
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrAssistant-com.apple.siri.asr.geolm.regionMapping.zh_CN-zh_CN-generic-3100.1200.115.11.2907,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrAssistant/purpose_auto/62b1838d60bafc90b18ec943064af19d6499e9aa.asset/AssetData
+            metadata:
+              version: 3100.1200.115
+              trialIsEncrypted: true
+          - com.apple.siri.asr.geolm.regionMapping.zh_HK
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrAssistant-com.apple.siri.asr.geolm.regionMapping.zh_HK-zh_HK-generic-3100.1200.113.11.2907,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrAssistant/purpose_auto/4cfff7576ca5359a8ef5c3651ab45a3cab25e2f0.asset/AssetData
+            metadata:
+              version: 3100.1200.113
+              trialIsEncrypted: true
+       - namespace: SIRI_UNDERSTANDING_ATTENTION_ASSETS
+         NCVs: [1000, 1001, 1002, 1003, 1200]
+         factorPackId: (null)
+         factors:
+       - namespace: SIRI_UNDERSTANDING_MORPHUN
+         NCVs: [1000, 1001, 1002]
+         factorPackId: 62ec7220c682040ba94e6a20
+         factors:
+       - namespace: SIRI_UNDERSTANDING_NL
+         NCVs: [1000, 1001, 1002, 1003, 1004, 1100, 1200, 1300]
+         factorPackId: (null)
+         factors:
+    - rollout: 6112d17137f5d11121dcd4e2.250000472
+      status: active
+      activeFactorPackSetid: 0d5f881f-8aaa-4401-afaa-979fff3ad65c
+      namespaces:
+       - namespace: SIRI_UNDERSTANDING_ASR_HAMMER
+         NCVs: [1000, 1001, 1100, 2001]
+         factorPackId: 65649ef58f42f253f541fc57
+         factors:
+          - com.apple.siri.asr.hammer.en_US
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriUnderstandingAsrHammer-com.apple.siri.asr.hammer.en_CA-en_CA-iPhone-ANE2-3100.1100.163.11.3943,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriUnderstandingAsrHammer/purpose_auto/6c6b3a7207476093dd9741268c78ecd9bfa2801a.asset/AssetData
+            metadata:
+              version: 3100.1100.163
+              trialIsEncrypted: true
+    - rollout: 6112e3d2fc54bc3389840661.250000477
+      status: active
+      activeFactorPackSetid: 574b801d-73d7-4c66-8cb3-9f5e8c2cc3b9
+      namespaces:
+       - namespace: SIRI_TEXT_TO_SPEECH
+         NCVs: [1000, 1001, 1002, 1100, 1200]
+         factorPackId: 648b9b0d5dbc71671bb3a9b3
+         factors:
+          - com.apple.siri.tts.catalog.resource
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriTextToSpeech-com.apple.siri.tts.catalog.resource-generic-generic-147.0.0.11.3165,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriTextToSpeech/purpose_auto/7ac69e9f654d6501a22bb6310763d0e2de0255e6.asset/AssetData/com.apple.siri.tts.catalog.resource
+            metadata:
+              version: 147.0.0
+              trialIsEncrypted: true
+              __trialAppleFSCompressionMode: 
+          - com.apple.siri.tts.catalog.voice
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriTextToSpeech-com.apple.siri.tts.catalog.voice-generic-generic-112.0.0.11.1613,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriTextToSpeech/purpose_auto/7717074531d6ee11e6e9e8557614f0d7ff8c34da.asset/AssetData/com.apple.siri.tts.catalog.voice
+            metadata:
+              version: 112.0.0
+              trialIsEncrypted: true
+              __trialAppleFSCompressionMode: 
+          - com.apple.siri.tts.resource.en_US
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriTextToSpeech-com.apple.siri.tts.resource.en_US-en_US-generic-409.0.0.11.3165,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriTextToSpeech/purpose_auto/b1a6052eede8288fdb540dd19a5bcc3faf9125df.asset/AssetData
+            metadata:
+              ttsContentVersion: 409
+              trialIsEncrypted: true
+              __trialAppleFSCompressionMode: LZBITMAP
+              assetSize: 3194925
+              ttsCompatibilityVersion: 16
+              version: 409.0.0
+          - com.apple.siri.tts.voice.en_US.quinn.neural.premium
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriTextToSpeech-com.apple.siri.tts.voice.en_US.quinn.neural.premium-en_US-iPhone-1136.0.0.11.976,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriTextToSpeech/purpose_auto/8a4d9e55db1d37935cbdabb5d823864631caed97.asset/AssetData
+            metadata:
+              gender: neutral
+              ttsContentVersion: 1136
+              __trialAppleFSCompressionMode: LZBITMAP
+              ttsCompatibilityVersion: 55
+              assetSize: 111728225
+              version: 1136.0.0
+              trialIsEncrypted: true
+    - rollout: 61675b89201f677a9a4cbd65.250000078
+      status: active
+      activeFactorPackSetid: 85c34e06-f856-4ff0-9da3-99ef0de9c03a
+      namespaces:
+       - namespace: HEALTH_FEATURE_AVAILABILITY
+         NCVs: [1]
+         factorPackId: 65287aa4be905e686a05f0a2
+         factors:
+          - Feature Availability
+            assetReference: 653051f0da82d20bcf2c462f
+            path: /private/var/mobile/Library/Trial/Treatments/HEALTH_FEATURE_AVAILABILITY/factorPacks/65287aa4be905e686a05f0a2/assets/FeatureAvailability#bd4f285
+            metadata:
+    - rollout: 61fd92db295c182621ececc3.250000377
+      status: active
+      activeFactorPackSetid: empty-fp-set
+      namespaces:
+       - namespace: SIRI_DIALOG_ASSETS
+         NCVs: [1001, 1002, 1003, 1100, 1200, 1300]
+         factorPackId: (null)
+         factors:
+    - rollout: 6246d6a916a70b047e454124.240000010
+      status: active
+      activeFactorPackSetid: bebdf57d-84ac-4250-b960-008c3fadfb22
+      namespaces:
+       - namespace: WALLET_APP_ECOM_PAYMENT_SHEET
+         NCVs: [1]
+         factorPackId: 64496ae8128ed17664c618d9
+         factors:
+    - rollout: 62699e1ec1ff2978b47f6c3b.250000030
+      status: active
+      activeFactorPackSetid: 40149a0b-8ed1-4bcc-a088-0109c64db405
+      namespaces:
+       - namespace: SIRI_FIND_MY_CONFIGURATION_FILES
+         NCVs: [1000, 1001]
+         factorPackId: 652805151bce5442b8d752e1
+         factors:
+          - com.apple.siri.findmy.primary_device_files
+            assetReference: com.apple.MobileAsset.Trial.Siri.SiriFindMyConfigurationFiles-com.apple.siri.findmy.primary_device_files-generic-generic-0.2.3.11.4173,0
+            path: /private/var/MobileAsset/AssetsV2/com_apple_MobileAsset_Trial_Siri_SiriFindMyConfigurationFiles/purpose_auto/2f5f32220556b2a4cca373232df1a2b9b4db74c3.asset/AssetData/devicemapping_0.2.3.plist
+            metadata:
+              version: 0.2.3
+              trialIsEncrypted: true
+    - rollout: 62868a738e8ae2385955687e.250000003
+      status: active
+      activeFactorPackSetid: f5bb0666-949e-4e7a-b9ea-2802e0fb08d4
+      namespaces:
+       - namespace: SIRI_DICTATION_ASSETS
+         NCVs: [1050]
+         factorPackId: 62868adbcec4674079196394
+         factors:
+          - eng_USA_test
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/assets_372/eng_USA_test
+            metadata:
+              trialIsEncrypted: 
+    - rollout: 6297d96be2c9387df974efa4.250000011
+      status: active
+      activeFactorPackSetid: 2e6569e0-9f43-4516-b3a6-74298190927a
+      namespaces:
+       - namespace: SIRI_VALUE_INFERENCE_APP_RESOLUTION
+         NCVs: [1]
+         factorPackId: 6494ca523597223bb9ad771e
+         factors:
+          - AudioMegamodelCompiled
+            assetReference: 6494ca523597223bb9ad771d
+            path: /private/var/mobile/Library/Trial/Treatments/SIRI_VALUE_INFERENCE_APP_RESOLUTION/factorPacks/6494ca523597223bb9ad771e/assets/AudioMegamodelCompiled
+            metadata:
+    - rollout: 62b4513af75dc926494899c6.250000017
+      status: active
+      activeFactorPackSetid: 1c84265e-0002-4111-8069-8aa28bfdf445
+      namespaces:
+       - namespace: COREOS_ICD
+         NCVs: [4]
+         factorPackId: 62b451816c843c3494e8dd8f
+         factors:
+    - rollout: 62cdf63ddb3b7109d6d765cc.240000007
+      status: active
+      activeFactorPackSetid: 05627c3f-3f59-47d8-b80c-069e2764f212
+      namespaces:
+       - namespace: SIRI_UNDERSTANDING_TMDC
+         NCVs: [3]
+         factorPackId: 62cdf6dddb3b7109d6d765cd
+         factors:
+    - rollout: 62fe74515312cd4599bd3c80.250000004
+      status: active
+      activeFactorPackSetid: 4c509665-c727-4c95-8ac5-efcc5dcb3d32
+      namespaces:
+       - namespace: MYRIAD_BOOSTS
+         NCVs: [1]
+         factorPackId: 62fe74805312cd4599bd3c81
+         factors:
+    - rollout: 6347054113acce15305b7b82.250000004
+      status: active
+      activeFactorPackSetid: 6781bdb3-a12a-4c3e-8e7e-6e8aab421be0
+      namespaces:
+       - namespace: SIRI_MEMORY_SYNC_CONFIG
+         NCVs: [1]
+         factorPackId: 634705e78e8be655c1316a6e
+         factors:
+    - rollout: 63582c5f8a53461413999550.240000002
+      status: active
+      activeFactorPackSetid: empty-fp-set
+      namespaces:
+       - namespace: PROACTIVE_MAIL_INTELLIGENCE_SALIENCY
+         NCVs: [2]
+         factorPackId: (null)
+         factors:
+          - attachmentDetectionRegexes.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/attachmentDetectionRegexes.plist
+            metadata:
+          - attachmentLinkDetection.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/attachmentLinkDetection.plist
+            metadata:
+          - classificationConfiguration.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/classificationConfiguration.plist
+            metadata:
+          - followUpDetectionRegexes.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/followUpDetectionRegexes.plist
+            metadata:
+          - followUpOnIncomingMailsDetectionRegexes.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/followUpOnIncomingMailsDetectionRegexes.plist
+            metadata:
+          - followUpOnOutgoingMailsAsksDetectionRegexes.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/followUpOnOutgoingMailsAsksDetectionRegexes.plist
+            metadata:
+          - followUpOnOutgoingMailsQuestionsDetectionRegexes.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/followUpOnOutgoingMailsQuestionsDetectionRegexes.plist
+            metadata:
+          - followUpWarningsParameters.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/followUpWarningsParameters.plist
+            metadata:
+          - model
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/model
+            metadata:
+          - modelFeatureNames.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/modelFeatureNames.plist
+            metadata:
+          - modelFeatureStandardizationMeans.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/modelFeatureStandardizationMeans.plist
+            metadata:
+          - modelFeatureStandardizationStandardDeviations.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/modelFeatureStandardizationStandardDeviations.plist
+            metadata:
+          - modelGroundTruthFeatureLowerBounds.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/modelGroundTruthFeatureLowerBounds.plist
+            metadata:
+          - modelGroundTruthFeatureNames.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/modelGroundTruthFeatureNames.plist
+            metadata:
+          - modelGroundTruthFeatureUpperBounds.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/modelGroundTruthFeatureUpperBounds.plist
+            metadata:
+          - modelGroundTruthOutputs.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/modelGroundTruthOutputs.plist
+            metadata:
+          - nicknameDetectionRegexes.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/nicknameDetectionRegexes.plist
+            metadata:
+          - recipientConservativeDetectionRegexes.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/recipientConservativeDetectionRegexes.plist
+            metadata:
+          - recipientDetectionRegexes.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/recipientDetectionRegexes.plist
+            metadata:
+          - saliencyOverrideFeatureLowerBounds.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/saliencyOverrideFeatureLowerBounds.plist
+            metadata:
+          - saliencyOverrideFeatureNames.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/saliencyOverrideFeatureNames.plist
+            metadata:
+          - saliencyOverrideFeatureUpperBounds.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/saliencyOverrideFeatureUpperBounds.plist
+            metadata:
+          - saliencyOverrideOutputs.plist
+            assetReference: 
+            path: /System/Library/PrivateFrameworks/CoreSuggestionsInternals.framework/assets_130/saliencyOverrideOutputs.plist
+            metadata:
+    - rollout: 63a0a6cfd1cdb67d083006d0.240000003
+      status: active
+      activeFactorPackSetid: 02da6110-8319-4049-aa55-8a709c787ed5
+      namespaces:
+       - namespace: SIRI_MESSAGES_APP_SELECTION
+         NCVs: [4]
+         factorPackId: 63b2d8002d41213e73573591
+         factors:
+    - rollout: 6410af69ed1e1e7ab93ed169.250000009
+      status: active
+      activeFactorPackSetid: empty-fp-set
+      namespaces:
+       - namespace: SIRI_VALUE_INFERENCE_PHONECALL_SMART_APP_SELECTION
+         NCVs: [1]
+         factorPackId: (null)
+         factors:
+no experiments
